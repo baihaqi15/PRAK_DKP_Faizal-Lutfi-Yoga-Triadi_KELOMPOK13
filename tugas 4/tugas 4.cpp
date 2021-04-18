@@ -9,7 +9,7 @@ public:
         cout << "Kelompok : 13" << endl;
         cout << "Shift : 1" << endl;
         cout << "Nama anggota 1 : Faizal Lutfi Yoga Triadi " << endl;
-        cout << "Nama anggota 2 : Muhammad Baihaqi Assahaumi Mutaqo " << endl;
+        cout << "Nama anggota 2 : Muhammad Baihaqi Asshaumi Mutaqo " << endl;
         cout << "Nama anggota 3 : Audi Alvan Fikri " << endl;
         cout << "Nama anggota 4 : Rizal Firdaus " << endl;
     }
